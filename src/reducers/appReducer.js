@@ -1,3 +1,4 @@
+// a Reducer for registering the STORE
 function appReducer(state, action){
   switch (action.type){
     case "ADDTAX":

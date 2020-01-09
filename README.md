@@ -1,3 +1,9 @@
+#### 参考さいと
+ソースコード：https://qiita.com/enshi/items/19b1924b72f8c2ffd1eb
+Redux概念:https://qiita.com/kitagawamac/items/b001839150ab04a6a427
+connect概念:http://yucatio.hatenablog.com/entry/2018/09/21/225716
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
